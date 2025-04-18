@@ -1,6 +1,10 @@
+## 1.0.1
+
+* Fix namespace.
+
 ## 1.0.0
 
-* Update usage and example
+* Update usage and example.
 
 ## 0.1.1
 
